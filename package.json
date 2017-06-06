@@ -1,0 +1,15 @@
+{
+  "name": "node-news-app",
+  "version": "1.0.0",
+  "description": "Simple app to grab news from NYT API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Shetler",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "yargs": "^8.0.1"
+  }
+}
